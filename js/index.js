@@ -16,3 +16,7 @@ let result = {
     "mx_found": true,
     "catch_all": null,
     "disposable": false,
+    "smtp_check": false,
+    "did_you_mean": "",
+    "format_valid": true
+}

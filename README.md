@@ -6,9 +6,10 @@ A simple email validator built with HTML, CSS, and JavaScript. It checks if the 
  
 ## Features
 - **User-friendly UI** with a clean and responsive design.
-- *Validator*Validates email addresses** by checking format, domain, and deliverability.
+- **Validates email addresses** by checking format, domain, and deliverability.
 - **API integration** for real-time validation results.
 - **Instant feedback** with loading animation.
+
 
 ## Technologies Used
 - **HTML** for structuring the webpage.
